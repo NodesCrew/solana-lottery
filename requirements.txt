@@ -1,0 +1,9 @@
+aiohttp
+async-timeout
+attrs
+chardet
+idna
+multidict
+typing-extensions
+uvloop
+yarl
